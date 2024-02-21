@@ -1,6 +1,6 @@
-# Band-O-Bast
+# Band-O-Bast System
 ## Problem Description : 
-#### Platform/tool to remotely track police officers deployed to Bandobast duty using NFC(Near Field Communication)to ensure that they stay where they are posted.
+#### Platform/tool to remotely track police officers deployed to Bandobast duty using NFC(Near Field Communication) and LoRa to ensure that they stay where they are posted.
 
 ## Features :
 #### ➢ Supervisors can easily keep an eye on the bandobast and observe where each member of the ground staff is located.
